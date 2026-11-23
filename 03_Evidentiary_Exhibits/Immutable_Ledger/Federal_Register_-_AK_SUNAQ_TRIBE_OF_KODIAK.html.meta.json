@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+SUNAQ+TRIBE+OF+KODIAK",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+SUNAQ+TRIBE+OF+KODIAK",
+  "title": "Federal Register - AK SUNAQ TRIBE OF KODIAK",
+  "fetched_at": "2026-11-23T17:28:00.765656Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 104551,
+  "sha256": "2838ad93ddb5a6ed76098f7751b9d1140eef10e7b1b9243615e569cb06a0e45a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
